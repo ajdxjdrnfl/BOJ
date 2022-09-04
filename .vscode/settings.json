@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "array": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "stdlib.h": "c",
+        "9184.C": "cpp",
+        "9461.C": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "complex": "cpp",
+        "random": "cpp",
+        "list": "c",
+        "ratio": "c",
+        "15678_seg,c": "c",
+        "complex.h": "c"
+    }
+}
